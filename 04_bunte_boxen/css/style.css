@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    font-family: "Jacquard 12 Charted", system-ui;
 }
 
 body {
@@ -41,5 +42,4 @@ main {
 footer {
     background-color: pink;
     grid-column: span 2;
-
 }
